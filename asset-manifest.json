@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/nubi_test/static/css/main.02ebc3cf.chunk.css",
+    "main.js": "/nubi_test/static/js/main.f5876af1.chunk.js",
+    "main.js.map": "/nubi_test/static/js/main.f5876af1.chunk.js.map",
+    "runtime-main.js": "/nubi_test/static/js/runtime-main.750a49bb.js",
+    "runtime-main.js.map": "/nubi_test/static/js/runtime-main.750a49bb.js.map",
+    "static/js/2.42757c74.chunk.js": "/nubi_test/static/js/2.42757c74.chunk.js",
+    "static/js/2.42757c74.chunk.js.map": "/nubi_test/static/js/2.42757c74.chunk.js.map",
+    "index.html": "/nubi_test/index.html",
+    "static/css/main.02ebc3cf.chunk.css.map": "/nubi_test/static/css/main.02ebc3cf.chunk.css.map",
+    "static/js/2.42757c74.chunk.js.LICENSE.txt": "/nubi_test/static/js/2.42757c74.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.750a49bb.js",
+    "static/js/2.42757c74.chunk.js",
+    "static/css/main.02ebc3cf.chunk.css",
+    "static/js/main.f5876af1.chunk.js"
+  ]
+}
